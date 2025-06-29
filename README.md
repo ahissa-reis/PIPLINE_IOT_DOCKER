@@ -59,9 +59,6 @@ O dashboard exibe:
 - Padrões de leitura ao longo do dia
 - Tendências climáticas ao longo do tempo
 
-## Capturas de Tela
-(Adicione aqui imagens do dashboard funcionando)
-
 ## Publicação
 ```bash
 git add .
